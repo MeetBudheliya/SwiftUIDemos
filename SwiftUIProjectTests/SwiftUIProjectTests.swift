@@ -1,14 +1,14 @@
 //
-//  SwiftUIProjectTests.swift
-//  SwiftUIProjectTests
+//  SwiftUiDemosTests.swift
+//  SwiftUiDemosTests
 //
 //  Created by Adsum MAC 1 on 20/04/21.
 //
 
 import XCTest
-@testable import SwiftUIProject
+@testable import SwiftUiDemos
 
-class SwiftUIProjectTests: XCTestCase {
+class SwiftUiDemosTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  SwiftUIProject
+//  SwiftUiDemos
 //
 //  Created by Adsum MAC 1 on 20/04/21.
 //
